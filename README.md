@@ -15,6 +15,8 @@ Dev Master
 Tiago Serra - tiagoss@gmail.com
 http://www.tiagoserra.com.br
 
-*
-*
+# Equipe Diretriz / Team Diretriz
 
+  - Type some Markdown on the left
+  - See HTML in the right
+  - Magic
