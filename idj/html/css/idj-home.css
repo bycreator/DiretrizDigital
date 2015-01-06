@@ -43,6 +43,17 @@ background-repeat-y: no-repeat;
 margin-top: 30px;
 padding: 0px;
 height: 70px;
+margin-left: 15px;
+margin-right: -15px;
+}
+
+.banner img {
+width: 100%;
+}
+.online {
+margin-top: 29px;
+margin-left: 15px;
+margin-right: -15px;
 }
 
 /*fim top*/
