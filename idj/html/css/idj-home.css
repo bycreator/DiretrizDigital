@@ -20,15 +20,29 @@ margin-top: 100px;
 
 .menu ul {
 display: -webkit-box;
+margin: 0px;
 }
 
 .menu ul li {
 list-style: none;
+padding: 23px;
+padding-top: 15px;
+color:#ffffff
+}
+
+.menu ul li:hover {
+background-image: url(../images/menu-hover.png);
+color:#0071bd;
+height: 70px;
+background-repeat-y: no-repeat;
 }
 
 .menu{
 background-image: url(../images/fundo-menu.png);
-
+background-repeat-y: no-repeat;
+margin-top: 30px;
+padding: 0px;
+height: 70px;
 }
 
 /*fim top*/
