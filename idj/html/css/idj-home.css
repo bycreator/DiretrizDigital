@@ -58,4 +58,40 @@ margin-right: -15px;
 
 /*fim top*/
 
+/*meio*/
+.noticias {
+margin-top: 25px;
+}
+
+.noticias img#noticia-img {
+margin-top: 12px;
+width: 100%;
+}
+
+.noticias img#noticias-botao {
+float: right;
+}
+
+.noticias img#titulo {
+width: 100%;
+}
+
+.noticias h5 {
+font-size: 12px;
+color: #074466;
+}
+
+.noticias h6 {
+font-size: 10px;
+color: #074466;
+background-image: url(../images/noticias-fundo.png);
+background-repeat: no-repeat;
+padding-left: 15px;
+background-position: 0px 3px;
+border-top: 1px groove #e4e4e4;
+}
+
+
+/*fim meio*/
+
 /*fim home*/
