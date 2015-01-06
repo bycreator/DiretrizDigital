@@ -17,6 +17,27 @@ http://www.tiagoserra.com.br
 
 # Equipe Diretriz / Team Diretriz
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+  - Douglas Simao
+  - Eduardo Mesquita
+  - Tiago Serra
+  - Patricia Araujo
+  - Jonhathan Nerv
+  - Atila Frank
+  - Diogenes da Silva
+  - Andressa Oliveira
+  - Jonny Santos
+
+# Social Web
+
+  - Facebook - https://www.facebook.com/DiretrizDigital?fref=ts
+  - Instagram - http://instagram.com/diretrizdigital
+  - Twitter - https://twitter.com/DiretrizDigital
+  - Google+ - https://twitter.com/DiretrizDigital
+  - Linkedin - https://www.linkedin.com/company/2978976
+
+# Contact
+
+> Diretriz - Gestão Digital de Marca
+> Av. Maestro Lisboa, 417, José de Alencar - Fortaleza/CE - CEP 60830-185
+> Contatos: (85) 8852-1681 / 9619-5696 ou contato@diretrizdigital.com.br
+
