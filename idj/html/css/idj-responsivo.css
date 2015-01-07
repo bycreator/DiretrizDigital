@@ -25,6 +25,49 @@ margin-left: 25%;
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+.logos {
+text-align: center;
+}
+
+.logos img {
+padding-right: 25px;
+}
+
+.redes {
+margin-top: 30px;
+}
+
+.pesquisa {
+margin-top: 30px;
+}
+
+.pesquisa img {
+width: 100%;
+}
+
+.menu {
+display: none;
+}
+
+.online {
+margin-top: 30px;
+margin-left: 0px;
+margin-right: 0px;
+text-align: center;
+}
+
+.banner {
+margin-top: 30px;
+}
+
+.large-6.columns.fique-sabendo-texto {
+width: 50%;
+}
+
+.large-12.columns.calendario-evento {
+width: 50%;
+}
  
 }
  
