@@ -30,5 +30,66 @@ margin-left: 25%;
  
 @media only screen and (max-width: 479px) {
 
+.logos {
+text-align: center;
+margin-top: 0px;
+}
+
+.logos img {
+padding-right: 15px;
+padding-top: 15px;
+}
+
+.redes {
+margin-top: 30px;
+text-align: center;
+}
+
+.pesquisa {
+margin-top: 30px;
+}
+
+.pesquisa img {
+width: 100%;
+}
+
+.menu {
+display: none;
+}
+
+.online img {
+width: 100%;
+}
+
+.online {
+margin-top: 29px;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+.banner {
+margin-top: 30px;
+}
+
+.noticias img#noticia-img {
+margin-top: 30px;
+}
+
+img#calendario-data {
+margin-top: 30px;
+}
+
+.large-3.columns.facebook {
+text-align: center;
+}
+
+.large-6.columns.estude {
+margin-top: 30px;
+}
+
+.videos img {
+margin-top: 30px;
+}
+
 }
 
