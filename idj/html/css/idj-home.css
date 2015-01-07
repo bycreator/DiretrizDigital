@@ -68,8 +68,9 @@ margin-top: 12px;
 width: 100%;
 }
 
-.noticias img#noticias-botao {
+img#noticias-botao {
 float: right;
+margin-top: 15px;
 }
 
 .noticias img#titulo {
@@ -89,6 +90,58 @@ background-repeat: no-repeat;
 padding-left: 15px;
 background-position: 0px 3px;
 border-top: 1px groove #e4e4e4;
+}
+
+.fique-sabendo {
+margin-top: 25px;
+}
+
+.fique-sabendo img#titulo {
+width: 100%;
+}
+
+.large-6.columns.fique-sabendo-texto {
+padding: 0px;
+margin-top: 12px;
+display: -webkit-box;
+}
+
+.fique-sabendo-texto h5 {
+font-size: 12px;
+color: #074466;
+width: 130px;
+padding-left:5px;
+}
+
+.calendario {
+margin-top: 25px;
+}
+
+img#calendario-data {
+margin-top: 12px;
+width: 100%;
+}
+
+.calendario-evento h5 {
+font-size: 12px;
+color: #074466;
+}
+
+.calendario img#titulo {
+width: 100%;
+}
+
+.large-12.columns.calendario-evento {
+padding: 0px;
+margin-top: 15px;
+display: -webkit-box;
+}
+
+.calendario-evento h5 {
+font-size: 12px;
+color: #074466;
+width: 172px;
+padding-left: 5px;
 }
 
 
