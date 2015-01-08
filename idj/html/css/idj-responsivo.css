@@ -26,8 +26,22 @@ margin-left: 25%;
 
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
 
+.top-bar-section ul li:hover:not(.has-form) > a {
+background-color: #0071bd;
+background: #0071bd;
+color: #FFFFFF;
+}
+
+nav.top-bar.menu-movel {
+position: fixed;
+width: 100%;
+z-index: 5;
+display: initial;
+}
+
 .logos {
 text-align: center;
+margin-top: 45px;
 }
 
 .logos img {
@@ -68,14 +82,32 @@ width: 50%;
 .large-12.columns.calendario-evento {
 width: 50%;
 }
+
+.large-3.columns.facebook {
+margin-top: 30px;
+text-align: center;
+}
  
 }
  
 @media only screen and (max-width: 479px) {
+.top-bar-section ul li:hover:not(.has-form) > a {
+background-color: #0071bd;
+background: #0071bd;
+color: #FFFFFF;
+}
+
+
+nav.top-bar.menu-movel {
+position: fixed;
+width: 100%;
+z-index: 5;
+display: initial;
+}
 
 .logos {
 text-align: center;
-margin-top: 0px;
+margin-top: 45px;
 }
 
 .logos img {
